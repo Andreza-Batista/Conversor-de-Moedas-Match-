@@ -1,5 +1,5 @@
 # Conversor-de-Moedas-Match-
-Envio aqui meu projeto para o módulo 2 do Programa Matchjunto do link de ambiente de teste e o video. 
+Envio aqui meu projeto para o módulo 2 do Programa Match junto do link de ambiente de teste e o video. 
 
 Tentei usar vários links de ambientes de teste, porém o abaixo foi o único no qual eu consegui utilizar com sucesso. Caso haja algum problema com o link, por favor entrar em contato para que eu possa tentar resolver.
 
